@@ -29,7 +29,8 @@ def initialize(context):
         'data_pipe'
     )
 
-    # Schedule rebalance function, called when the market opens on the first     # trading day of each week
+    # Schedule rebalance function, called when the market opens on the first
+    # trading day of each week
     algo.schedule_function(
         rebalance,
         algo.date_rules.week_start(),
