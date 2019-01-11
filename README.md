@@ -17,4 +17,4 @@ I created a public sentiment factor through importing data from the stocktwits A
 
 ### Portfolio Construction
 
-After creating a combined factor, I created a filter such that only securities in the top 10% and bottom 10% of the combined factor distribution would be considered. This is to ensure that the algorithm can only buy/short securities that it is definitive about. Additionally, the portfolio is limited by a maximum position size, maximum leverage, maximum turnover, and must be dollar neutral.
+After creating a combined factor, I created a filter such that only securities in the top 10% and bottom 10% of the combined factor distribution would be considered. Additionally, the portfolio is limited by a maximum position size, maximum leverage, maximum turnover, and dollar neutral factor.
