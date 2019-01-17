@@ -1,7 +1,7 @@
 # Quantopian
 Developing quantitative trading algorithms using the Quantopian API.
 
-I wrote this program to learn how quantitive trading algorithms work and the basics of the Quantopian API. Quantopian is a platform that provides freelance analysts the tools, education, and datasets necessary to develop algorithmically constructed securities portfolios. Though the algorithm I designed was relatively simple, I learned how to implement fundamental quantitative trading concepts such as data pipelines, risk analysis, and backtesting.  
+I wrote this program to learn how quantitative trading algorithms work and the basics of the Quantopian API. Quantopian is a platform that provides freelance analysts the tools, education, and datasets necessary to develop algorithmically constructed securities portfolios. Though the algorithm I designed was relatively simple, I learned how to implement fundamental quantitative trading concepts such as data pipelines, risk analysis, and backtesting.  
 
 ## Mean Reversion and Stocktwits Weighted Strategy
 
